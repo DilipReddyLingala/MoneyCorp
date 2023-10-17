@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "R1NrfLsAI2tclPqYn4AP3pptJ/efx0wPgj8fj5UjtHUYKempxzVsOmzJCu61yRU6zcjkhxmy0La0Qkh012l1xg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DilipReddy Lingala\\MphasisWorkSpace\\MoneyCorp\\MoneyCorp\\MoneyCorp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DilipReddy Lingala\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
+    "C:\\Users\\DilipReddy Lingala\\.nuget\\packages\\docker.dotnet\\3.125.15\\docker.dotnet.3.125.15.nupkg.sha512",
+    "C:\\Users\\DilipReddy Lingala\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\DilipReddy Lingala\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
+    "C:\\Users\\DilipReddy Lingala\\.nuget\\packages\\microsoft.net.test.sdk\\17.5.0\\microsoft.net.test.sdk.17.5.0.nupkg.sha512",
+    "C:\\Users\\DilipReddy Lingala\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\DilipReddy Lingala\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.5.0\\microsoft.testplatform.objectmodel.17.5.0.nupkg.sha512",
+    "C:\\Users\\DilipReddy Lingala\\.nuget\\packages\\microsoft.testplatform.testhost\\17.5.0\\microsoft.testplatform.testhost.17.5.0.nupkg.sha512",
+    "C:\\Users\\DilipReddy Lingala\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\DilipReddy Lingala\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\DilipReddy Lingala\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\DilipReddy Lingala\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
+    "C:\\Users\\DilipReddy Lingala\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\DilipReddy Lingala\\.nuget\\packages\\nunit.analyzers\\3.6.1\\nunit.analyzers.3.6.1.nupkg.sha512",
+    "C:\\Users\\DilipReddy Lingala\\.nuget\\packages\\nunit3testadapter\\4.4.2\\nunit3testadapter.4.4.2.nupkg.sha512",
+    "C:\\Users\\DilipReddy Lingala\\.nuget\\packages\\selenium.support\\4.14.0\\selenium.support.4.14.0.nupkg.sha512",
+    "C:\\Users\\DilipReddy Lingala\\.nuget\\packages\\selenium.webdriver\\4.14.0\\selenium.webdriver.4.14.0.nupkg.sha512",
+    "C:\\Users\\DilipReddy Lingala\\.nuget\\packages\\selenium.webdriver.waitextensions\\2.0.0\\selenium.webdriver.waitextensions.2.0.0.nupkg.sha512",
+    "C:\\Users\\DilipReddy Lingala\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\DilipReddy Lingala\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\DilipReddy Lingala\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\DilipReddy Lingala\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
